@@ -64,6 +64,6 @@
 - ✉️ bajorski16@gmail.com  
 - 📱 +48 790 356 300  
 - 🌍 Kraków, Poland  
-- 🔗 [github.com/BajorskiPatrick](https://github.com/BajorskiPatrick)
+- 🔗 https://www.linkedin.com/in/bajorskipatrick/
 
 ---
